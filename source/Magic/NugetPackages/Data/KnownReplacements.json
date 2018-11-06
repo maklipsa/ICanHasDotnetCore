@@ -116,5 +116,26 @@
     "linkText": "Nuget",
     "url": "https://www.nuget.org/packages/iTextSharp.LGPLv2.Core/",
     "startsWith": false
+  },
+  {
+    "id": "FluentValidation.WebAPI",
+    "message": "FluentValidation.WebAPI has been replaced by FluentValidation.AspNetCore",
+    "linkText": "Nuget",
+    "url": "https://www.nuget.org/packages/FluentValidation.AspNetCore/",
+    "startsWith": false
+  },
+  {
+    "id": "Swashbuckle",
+    "message": "Swashbuckle has been replaced by Swashbuckle.AspNetCore",
+    "linkText": "Nuget",
+    "url": "https://github.com/domaindrivendev/Swashbuckle.AspNetCore",
+    "startsWith": false
+  },
+  {
+    "id": "LinqKit",
+    "message": "LinqKit has been replaced by LinqKit.Core",
+    "linkText": "Nuget",
+    "url": "https://github.com/scottksmith95/LINQKit",
+    "startsWith": false
   }
 ]
